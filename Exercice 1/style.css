@@ -1,0 +1,61 @@
+html {
+	height: 100%;
+}
+
+#global
+{
+	min-height: 100%;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+
+p{
+	font-family: "Century Gothic";
+}
+#entete
+{
+	margin-left: auto;
+	margin-right: auto;
+	background: #ccccc5;
+	font-family: "Century Gothic";
+	text-align: left;
+	font-size: 0.7em;
+	padding: 15px 50px;
+}
+#navigation {
+	margin-left: auto;
+	margin-right: auto;
+}
+}
+#navigation ul {
+	margin: 0;
+	padding:0;
+	list-style: none;
+	text-align: center;
+}
+#navigation li {
+	float:left;
+	margin:auto;
+	padding:0;
+	background-color:#fae5ff;
+}
+#navigation li a {
+	display:block;
+	width:110px;
+	color:black;
+	text-decoration:none;
+	padding:10px 10px;
+}
+#navigation a {
+	padding: 6px;
+	line-height: 1.5;
+	font-size: 0.85em;
+	font-family: "Century Gothic",Verdana, sans-serif;
+	text-decoration:none;
+}
+#navigation li a:hover, #navigation ul li ul li a:hover {
+	color:#004251;
+	background:#d1f6ff;
+}

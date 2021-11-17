@@ -1,0 +1,17 @@
+body 
+{
+	background-image: url("source.gif");
+    background-repeat: repeat;
+    background-attachment: fixed;
+	background-size : 200px 200px;
+}
+h1
+{
+	font-size: 70;
+	color: blue;
+}
+p
+{
+	
+	font-size: 50;
+}
